@@ -6,6 +6,8 @@ I was not successful. I can get the autocomplete menu to show up, but I cannot
 get Chromium to select from it, even by clicking in the text box and pressing
 the down key (which works when using the browser manually).
 
+![](menu-showing.png)
+
 # Run
 
 Clone the repo and `cd` into its directory, then:
