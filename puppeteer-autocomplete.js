@@ -22,9 +22,12 @@ const puppeteer = require("puppeteer");
   await page.waitFor(2000);
   // await page.click('input[name="fname"]');
   await page.waitFor(2000);
+  await page.keyboard.down("AltLeft");
   await page.keyboard.down("ArrowDown");
   await page.waitFor(200);
+
   await page.keyboard.up("ArrowDown");
+  await page.keyboard.up("AltLeft");
   await page.waitFor(2000);
   // await page.keyboard.press("ArrowDown", { delay: 250 });
   await page.waitFor(2000);
