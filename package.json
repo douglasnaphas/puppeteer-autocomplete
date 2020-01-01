@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-autocomplete",
+  "version": "1.0.0",
+  "description": "Use HTML autocomplete with Puppeteer",
+  "main": "puppeteer-autocomplete.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasnaphas/puppeteer-autocomplete.git"
+  },
+  "author": "Douglas Naphas",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/douglasnaphas/puppeteer-autocomplete/issues"
+  },
+  "homepage": "https://github.com/douglasnaphas/puppeteer-autocomplete#readme"
+}
